@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me</h3>
 
-<p align="left"> I'm a student at <a href="https://42luxembourg.lu/" target="_blank">42 Luxembourg</a> and I'm new to coding. Feel free to connect with me and follow along on my coding adventures!</p>
+<p align="left"> I'm a student at <a href="https://42luxembourg.lu/" target="_blank">42 Luxembourg</a> and I'm new to coding. Feel free to connect with me and follow along on my coding adventures! I also have a keen interest in cybersecurity and enjoy learning about different aspects of it.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiosilva24&label=Profile%20views&color=a5f3bc&style=flat" alt="fabiosilva24" /> </p>
 
