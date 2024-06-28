@@ -23,9 +23,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
-
-<h3 align="left">Cybersecurity</h3>
-<p align="left">
-  <script src="https://tryhackme.com/badge/2485624"></script>
-</p>
-
