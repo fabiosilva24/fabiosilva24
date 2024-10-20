@@ -32,7 +32,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cc.svg" alt="indesign" width="40" height="40"/> 
   </a>
   <a href="https://www.apple.com/imovie/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/imovie-2.svg" alt="imovie" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/imovie.svg" alt="imovie" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-cc.svg" alt="premiere" width="40" height="40"/> 
@@ -44,3 +44,4 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-after-effects-cc.svg" alt="aftereffects" width="40" height="40"/> 
   </a>
 </p>
+
