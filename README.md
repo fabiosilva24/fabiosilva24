@@ -9,6 +9,10 @@
   I also love drawing logos and working on creative design projects. Additionally, I'm almost finished with my course in multimedia and layout, which has strengthened my skills in design, visual communication, and layout.
 </p>
 
+<p align="left">
+  Check out my TryHackMe profile: <a href="https://tryhackme.com/r/p/fabio.bas" target="_blank">TryHackMe Profile</a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiosilva24&label=Profile%20views&color=a5f3bc&style=flat" alt="fabiosilva24" /> </p>
 
 <h3 align="left">Connect with me</h3>
@@ -27,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> 
-    <img src="https://pbs.twimg.com/profile_images/1841907755483054080/G_jONJFv_400x400.png" alt="Windows" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Windows_logo_-_2021.svg/120px-Windows_logo_-_2021.svg.png" alt="windows" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> 
@@ -57,4 +61,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" alt="Word" width="40" height="40"/> 
   </a>
 </p>
-
