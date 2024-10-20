@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Fabio</h1>
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/QYcfJTtQfo8AAAAM/deku.gif">
 
@@ -48,4 +47,11 @@
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/> 
   </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" alt="excel" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="windows" width="40" height="40"/> 
+  </a>
 </p>
+
