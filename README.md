@@ -39,7 +39,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer"> 
-    <img src="https://pbs.twimg.com/profile_images/1272875599569096706/gIr0v8xi_400x400.png" alt="animate" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/120px-Adobe_Animate_CC_icon_%282020%29.svg.png" alt="animate" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/> 
