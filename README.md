@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Fabio</h1>
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/QYcfJTtQfo8AAAAM/deku.gif">
 
@@ -32,17 +33,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="indesign" width="40" height="40"/> 
   </a>
   <a href="https://www.apple.com/imovie/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Imovie_Icon.png" alt="imovie" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/IMovie_Icon.png/800px-IMovie_Icon.png" alt="imovie" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Adobe_Animate_CC_icon_%282020%29.svg" alt="animate" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Animate_CC_icon_%282020%29.svg/800px-Adobe_Animate_CC_icon_%282020%29.svg.png" alt="animate" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/> 
   </a>
 </p>
-
-
