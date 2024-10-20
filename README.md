@@ -42,6 +42,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Animate_CC_icon_%282020%29.svg/800px-Adobe_Animate_CC_icon_%282020%29.svg.png" alt="animate" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Adobe_Animate_CC_icon_%282020%29.svg" alt="aftereffects" width="40" height="40"/> 
   </a>
 </p>
