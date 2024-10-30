@@ -62,5 +62,5 @@
   </a>
 </p>
 **#30NitesOfCode:**
-  [Check out my progress](https://www.codedex.io/@fabio_bastos0318646/30-nites-of-code)  
-  ![@fabio_bastos0318646 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=fabio_bastos0318646)
+[Check out my progress](https://www.codedex.io/@fabio_bastos0318646/30-nites-of-code)  
+![@fabio_bastos0318646 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=fabio_bastos0318646)
