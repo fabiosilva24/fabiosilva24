@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabio</h1>
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/QYcfJTtQfo8AAAAM/deku.gif">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/fsilva-p?1337Badge=off&UM6P=off" alt="fsilva-p's 42 stats" /></a>
 
 <h3 align="left">About Me</h3>
 
@@ -60,5 +60,4 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" alt="Word" width="40" height="40"/> 
   </a>
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/fsilva-p?1337Badge=off&UM6P=off" alt="fsilva-p's 42 stats" /></a>
 </p>
