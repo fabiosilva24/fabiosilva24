@@ -21,7 +21,7 @@ I also love **drawing logos** and working on creative design projects. I'm almos
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=fabiosilva24&label=Profile%20views&color=a5f3bc&style=flat" alt="fabiosilva24" />
 </p>
 
