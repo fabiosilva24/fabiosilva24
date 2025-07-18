@@ -30,9 +30,7 @@ I also love **drawing logos** and working on creative design projects. I'm almos
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosilva24&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosilva24&layout=compact&theme=default" alt="Top Languages" />
-</p>
+
 
 ---
 
