@@ -38,7 +38,7 @@ I also love **drawing logos** and working on creative design projects. I'm almos
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://lu.linkedin.com/in/fabio-andr%C3%A9-silva-pinto-bastos-405080316?trk=organization_guest_main-feed-card-text" target="_blank">
+  <a href="https://www.linkedin.com/in/fabio-andr%C3%A9-silva-pinto-bastos-405080316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
