@@ -27,6 +27,7 @@ I also love **drawing logos** and working on creative design projects. I'm almos
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fabiosilva24&show_icons=true&theme=default" alt="Fabio's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosilva24&layout=compact&theme=default" alt="Top Languages" width="35.1%"/>
 </p>
 
 
