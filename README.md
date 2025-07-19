@@ -22,7 +22,7 @@ I also love **drawing logos** and working on creative design projects. I'm almos
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiosilva24&show_icons=true&theme=default" width="35.1%" alt="Fabio's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiosilva24&show_icons=true&theme=default" width="1%" alt="Fabio's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosilva24&layout=compact&theme=default" width="35.1%" alt="Top Languages"/>
 </p>
 
