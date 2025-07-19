@@ -6,7 +6,6 @@
   </a>
 </p>
 
----
 
 ### 🧑‍💻 About Me
 
@@ -17,7 +16,7 @@ I also love **drawing logos** and working on creative design projects. I'm almos
 
 🔐 Check out my TryHackMe profile: [TryHackMe Profile](https://tryhackme.com/r/p/fabio.bas)
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -27,13 +26,6 @@ I also love **drawing logos** and working on creative design projects. I'm almos
 </p>
 
 
-
-
-
-
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -41,8 +33,6 @@ I also love **drawing logos** and working on creative design projects. I'm almos
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
 
 ### 🛠️ Languages & Tools
 
