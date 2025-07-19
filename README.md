@@ -6,6 +6,7 @@
   </a>
 </p>
 
+---
 
 ### 🧑‍💻 About Me
 
@@ -16,15 +17,22 @@ I also love **drawing logos** and working on creative design projects. I'm almos
 
 🔐 Check out my TryHackMe profile: [TryHackMe Profile](https://tryhackme.com/r/p/fabio.bas)
 
-
+---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiosilva24&show_icons=true&theme=default" alt="Fabio's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosilva24&layout=compact&theme=default" width="35.1%/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=fabiosilva24&show_icons=true&theme=default" alt="Fabio's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosilva24&layout=compact&theme=default" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
+---
 
 ### 🔗 Connect with Me
 
@@ -33,6 +41,8 @@ I also love **drawing logos** and working on creative design projects. I'm almos
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
 
 ### 🛠️ Languages & Tools
 
@@ -59,3 +69,4 @@ I also love **drawing logos** and working on creative design projects. I'm almos
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
 
 </p>
+
