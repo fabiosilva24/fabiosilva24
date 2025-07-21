@@ -49,10 +49,12 @@ I also love **drawing logos** and working on creative design projects. I'm almos
 #### 👨‍💻 Programming & Development  
 <p align="left">  
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />  
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />  
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /> 
 </p>  
 
 #### 🎨 Adobe & Design Tools  
@@ -63,7 +65,7 @@ I also love **drawing logos** and working on creative design projects. I'm almos
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />  
   <img src="https://img.shields.io/badge/Animate-FE4C1C?style=for-the-badge&logo=adobe-animate&logoColor=white" alt="Animate" />  
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />  
-  <img src="https://img.shields.io/badge/iMovie-1C1C1C?style=for-the-badge&logo=apple&logoColor=white" alt="iMovie" />  
+  <img src="https://img.shields.io/badge/iMovie-1C1C1C?style=for-the-badge&logo=apple&logoColor=white" alt="iMovie" />
 </p>  
 
 #### 🧾 Office & Productivity  
