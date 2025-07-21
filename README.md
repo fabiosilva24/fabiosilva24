@@ -13,7 +13,7 @@
 I'm a student at [42 Luxembourg](https://42luxembourg.lu/) and I'm new to coding. Feel free to connect with me and follow along on my coding adventures!  
 I also have a keen interest in **cybersecurity** and enjoy learning about different aspects of it.
 
-I also love **drawing logos** and working on creative design projects. I'm almost finished with my course in **multimedia and layout**, which has strengthened my skills in design, visual communication, and layout.
+I also love **drawing logos** and working on creative design projects.
 
 🔐 Check out my TryHackMe profile: [TryHackMe Profile](https://tryhackme.com/r/p/fabio.bas)
 
